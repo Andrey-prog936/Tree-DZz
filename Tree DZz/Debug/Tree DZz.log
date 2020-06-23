@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Hp\source\repos\Tree DZz\Tree DZz\Source.cpp(82): warning C4715: Tree::Search: значение возвращается не при всех путях выполнения
+  Tree DZz.vcxproj -> C:\Users\Hp\source\repos\Tree DZz\Debug\Tree DZz.exe
